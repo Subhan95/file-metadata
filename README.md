@@ -9,7 +9,7 @@ An API that returns a given file's size in bytes
 1. [node](https://nodejs.org/en/)
 2. [npm](https://www.npmjs.com)
 
-###Installing
+###Installation
 Clone the project
 
 ```git
