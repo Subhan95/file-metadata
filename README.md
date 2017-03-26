@@ -1,15 +1,15 @@
-#File Metadata
+# File Metadata
 
 An API that returns a given file's size in bytes
 
-##Getting Started
+## Getting Started
 
-###Prerequisites
+### Prerequisites
 
 1. [node](https://nodejs.org/en/)
 2. [npm](https://www.npmjs.com)
 
-###Installation
+### Installation
 Clone the project
 
 ```git
@@ -24,10 +24,10 @@ npm install
 
 to install the dependencies
 
-##Builtwith
+## Builtwith
 [express](https://expressjs.com/)   
 
 View other dependencies in package.json
 
-##Licensing
+## Licensing
 MIT
